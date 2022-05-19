@@ -4,3 +4,4 @@ scikit-learn
 pymongo
 tqdm
 networkx[default]
+lxml
